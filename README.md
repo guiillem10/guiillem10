@@ -22,18 +22,15 @@
 
 ---
 
-- 🎓 **Education**: B.Sc. in Physics &amp; currently pursuing an MSc in Quantitative Finance and Banking (Barcelona).
+- 🎓 **Education**: BSc. in Physics &amp; currently pursuing an MSc in Quantitative Finance and Banking (Bilbao & Madrid).
 - 💹 **Main interests**: Stochastic calculus, derivatives pricing, risk management, algorithmic trading, machine learning.
 - 🛠️ **Current projects**  
-  - Yield-curve modelling &amp; term-structure analysis  
-  - Back-testing systematic strategies  
+  - Yield-curve modelling &amp; term-structure analysis    
   - A Python package that streamlines QuantLib workflows
-- 🌱 **2025 learning goals**: Reinforcement learning for portfolio management and cloud-native microservices on AWS.
+  - Quantum Computing
+- 🌱 **2025 learning goals**: Deepen my expertise in asset valuation and risk modeling, while advancing in applied machine learning for financial decision-making.
 - 💬 **Ask me about**: Numerical methods, Monte-Carlo simulations, reproducible research with Jupyter, exotic option valuation.
-- 🧑‍🔬 **Fun fact**: I still solve Physics Olympiad problems for fun 🤓
-
 ## 🛠️ Tech Stack
-
 ### 🔧 Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -47,21 +44,18 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-%23000000.svg?style=for-the-badge&logo=statsmodels&logoColor=white)
 ![QuantLib](https://img.shields.io/badge/QuantLib-%2314354C.svg?style=for-the-badge&logo=quantlib&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E34F26.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 
 ### 🔨 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Bloomberg](https://img.shields.io/badge/Bloomberg-131a22.svg?style=for-the-badge&logo=bloomberg&logoColor=white)
+![Reuters](https://img.shields.io/badge/Reuters-News?style=for-the-badge&logo=rss&logoColor=white)
 
 ## 📊 GitHub Stats
 <div align="center">
