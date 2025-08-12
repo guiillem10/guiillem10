@@ -85,17 +85,8 @@
 ### 📊 Most Used Languages
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=guiillem10&show_icons=true&locale=en&layout=compact&theme=radical)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiillem10&layout=compact&theme=radical&langs_count=8)
 </div>
-
-### 🏆 Trophies
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=guiillem10&theme=onedark&margin-w=4&margin-h=4&no-frame=true)
-
-</div>
-
 ---
 
 ### 🔗 Contact
