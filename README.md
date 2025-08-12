@@ -61,9 +61,9 @@
 ## 📊 GitHub Stats
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiillem10&theme=algolia&show_icons=true&count_private=true&bg_color=1e2b3c&border_color=B2E0FF&icon_color=95ccff&border_radius=20&include_all_commits=true&rank_icon=percentile)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guiillem10&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&rank_icon=percentile&bg_color=1E2B3C&border_color=B2E0FF&icon_color=95CCFF&border_radius=20)
 </div>
+
 
 ### 💳 Profile Summary Card
 <div align="center">
@@ -87,6 +87,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guiillem10&layout=compact&theme=radical&langs_count=8)
 </div>
+
 ---
 
 ### 🔗 Contact
