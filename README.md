@@ -25,11 +25,10 @@
 - 🎓 **Education**: BSc. in Physics &amp; currently pursuing an MSc in Quantitative Finance and Banking (Bilbao & Madrid).
 - 💹 **Main interests**: Stochastic calculus, derivatives pricing, risk management, algorithmic trading, machine learning.
 - 🛠️ **Current projects**  
-  - Yield-curve modelling &amp; term-structure analysis    
-  - A Python package that streamlines QuantLib workflows
+  - Advanced Quantitative Finance portfolio
   - Quantum Computing
-- 🌱 **2025 learning goals**: Deepen my expertise in asset valuation and risk modeling, while advancing in applied machine learning for financial decision-making.
-- 💬 **Ask me about**: Numerical methods, Monte-Carlo simulations, reproducible research with Jupyter, exotic option valuation.
+- 🌱 **2025 learning goals**: Deepen my expertise in asset valuation and risk modeling, while advancing in applied machine learning for financial decision-making. Integrate quantum computing into quantitative finance
+- 💬 **Ask me about**: Numerical methods, Monte-Carlo simulations,exotic option valuation, quantum algorithms, quantum machine learning.
 ## 🛠️ Tech Stack
 ### 🔧 Languages
 ![Python](https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
@@ -47,6 +46,8 @@
 ![Statsmodels](https://img.shields.io/badge/Statsmodels-%23000000.svg?style=for-the-badge&logo=statsmodels&logoColor=white)
 ![QuantLib](https://img.shields.io/badge/QuantLib-%2314354C.svg?style=for-the-badge&logo=quantlib&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23E34F26.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Qiskit](https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=qiskit&logoColor=white)
+
 
 ### 🔨 Tools & Platforms
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
